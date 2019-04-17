@@ -1,6 +1,4 @@
 {
-  "key1": {
-    "key11":"value11"
-  },
-  "key2":"value2"
+  "ios": 1.01,
+  "android":1.0
 }
