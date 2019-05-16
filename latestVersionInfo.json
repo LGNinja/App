@@ -1,4 +1,5 @@
 {
   "ios": 1.04,
-  "android":1.0
+  "android": 1.0,
+  "isInReview": true
 }
