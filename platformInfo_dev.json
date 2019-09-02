@@ -1,0 +1,13 @@
+{
+  "ios": {
+    "version": 2.02,
+    "isInReview": false
+  },
+  "android": {
+    "version": 1.0,
+    "isInReview": false
+  },
+  "AdMob": {
+    "isInReview": false
+  }  
+}
