@@ -9,6 +9,6 @@
   },
   "AdMob": {
     "isInReview": true,
-    "nativeAdsEnabled": false
+    "nativeAdsEnabled": true
   }  
 }
