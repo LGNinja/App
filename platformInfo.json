@@ -1,13 +1,14 @@
 {
   "ios": {
     "version": 2.07,
-    "isInReview": false
+    "isInReview": true
   },
   "android": {
     "version": 1.0,
     "isInReview": false
   },
   "AdMob": {
-    "isInReview": false
+    "isInReview": false,
+    "nativeAdsEnabled": false
   }  
 }
