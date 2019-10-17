@@ -8,8 +8,8 @@
     "isInReview": false
   },
   "AdMob": {
-    "isInReview": true,
-    "shouldShowNativeAds": true,
+    "isInReview": false,
+    "shouldShowNativeAds": false,
     "daysToStartNativeAdsModal": 3
   }  
 }
