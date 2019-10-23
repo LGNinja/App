@@ -1,7 +1,7 @@
 {
   "ios": {
-    "version": 2.08,
-    "isInReview": true
+    "version": 2.09,
+    "isInReview": false
   },
   "android": {
     "version": 1.0,
@@ -10,6 +10,6 @@
   "AdMob": {
     "isInReview": true,
     "shouldShowNativeAds": false,
-    "daysToStartNativeAdsModal": 5
+    "daysToStartNativeAdsModal": 6
   }  
 }
