@@ -12,5 +12,5 @@
     "shouldShowNativeAds": true,
     "daysToStartNativeAdsModal": 3
   },
-  "baseURL": "some-new-url"
+  "baseURL": "https://apinvpu.xyz"
 }
