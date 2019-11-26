@@ -11,5 +11,6 @@
     "isInReview": true,
     "shouldShowNativeAds": true,
     "daysToStartNativeAdsModal": 3
-  }  
+  },
+  "baseURL": "some-new-url"
 }
