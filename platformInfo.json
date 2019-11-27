@@ -1,7 +1,7 @@
 {
   "ios": {
     "version": 2.13,
-    "isInReview": true
+    "isInReview": false
   },
   "android": {
     "version": 1.0,
@@ -12,5 +12,5 @@
     "shouldShowNativeAds": true,
     "daysToStartNativeAdsModal": 6
   },
-  "baseURL": "https://apinvpu.xyz"
+  "baseURL": "https://nsfree.xyz"
 }
