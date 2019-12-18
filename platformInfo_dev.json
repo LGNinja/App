@@ -1,6 +1,6 @@
 {
   "ios": {
-    "version": 2.15,
+    "version": 2.16,
     "isInReview": false
   },
   "android": {
@@ -12,5 +12,5 @@
     "shouldShowNativeAds": true,
     "daysToStartNativeAdsModal": 3
   },
-  "baseURL": "https://basicslash.xyz"
+  "baseURL": "https://transferwagon.xyz"
 }
