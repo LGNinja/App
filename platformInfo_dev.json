@@ -1,6 +1,6 @@
 {
   "ios": {
-    "version": 2.16,
+    "version": 2.17,
     "isInReview": false
   },
   "android": {
@@ -12,5 +12,5 @@
     "shouldShowNativeAds": true,
     "daysToStartNativeAdsModal": 3
   },
-  "baseURL": "https://onchristmas.xyz"
+  "baseURL": "https://postchristmas.xyz"
 }
