@@ -1,7 +1,7 @@
 {
   "ios": {
     "version": 2.21,
-    "isInReview": false
+    "isInReview": true
   },
   "android": {
     "version": 1.0,
@@ -12,5 +12,5 @@
     "shouldShowNativeAds": true,
     "daysToStartNativeAdsModal": 6
   },
-  "baseURL": "https://enterapr.xyz"
+  "baseURL": "https://qingmin.xyz"
 }
