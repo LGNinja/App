@@ -1,7 +1,7 @@
 {
   "ios": {
-    "version": 2.22,
-    "isInReview": true
+    "version": 2.23,
+    "isInReview": false
   },
   "android": {
     "version": 1.01,
