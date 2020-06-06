@@ -1,7 +1,7 @@
 {
   "ios": {
     "version": 2.22,
-    "isInReview": false
+    "isInReview": true
   },
   "android": {
     "version": 1.01,
@@ -12,5 +12,5 @@
     "shouldShowNativeAds": true,
     "daysToStartNativeAdsModal": 6
   },
-  "baseURL": "https://triggerufw.xyz"
+  "baseURL": "https://elecfront.xyz"
 }
