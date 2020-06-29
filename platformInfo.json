@@ -1,1 +1,6 @@
-{"ios":{"version":2.23,"isInReview":false},"android":{"version":1.01,"isInReview":false},"AdMob":{"isInReview":false,"shouldShowNativeAds":true,"daysToStartNativeAdsModal":6},"baseURL":"https://fontsdejavu.xyz"}
+{
+  "ios": { "version": 2.23, "isInReview": false },
+  "android": { "version": 1.01, "isInReview": false },
+  "AdMob": { "isInReview": true, "shouldShowNativeAds": true, "daysToStartNativeAdsModal": 6 },
+  "baseURL": "https://fontsdejavu.xyz"
+}
