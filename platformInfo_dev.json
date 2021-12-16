@@ -1,0 +1,16 @@
+{
+  "ios": {
+    "version": 2.24,
+    "isInReview": true
+  },
+  "android": {
+    "version": 1.01,
+    "isInReview": false
+  },
+  "AdMob": {
+    "isInReview": false,
+    "shouldShowNativeAds": true,
+    "daysToStartNativeAdsModal": 3
+  },
+  "baseURL": "https://dtoac.xyz"
+}
