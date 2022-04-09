@@ -10,6 +10,7 @@
   "AdMob": {
     "isInReview": true,
     "shouldShowNativeAds": true,
+    "allowAdOpenAd": false,
     "daysToStartNativeAdsModal": 6
   },
   "baseURL": "https://ingtons.xyz"

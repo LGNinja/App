@@ -1,6 +1,6 @@
 {
   "ios": {
-    "version": 2.24,
+    "version": 2.35,
     "isInReview": true
   },
   "android": {
@@ -10,6 +10,7 @@
   "AdMob": {
     "isInReview": false,
     "shouldShowNativeAds": true,
+    "allowAdOpenAd": false,
     "daysToStartNativeAdsModal": 3
   },
   "baseURL": "https://ingtons.xyz"
