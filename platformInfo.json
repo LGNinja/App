@@ -8,9 +8,9 @@
     "isInReview": false
   },
   "AdMob": {
-    "isInReview": true,
+    "isInReview": false,
     "shouldShowNativeAds": true,
-    "allowAdOpenAd": false,
+    "allowAdOpenAd": true,
     "daysToStartNativeAdsModal": 6
   },
   "baseURL": "https://aydisr.xyz"
