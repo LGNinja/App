@@ -10,7 +10,7 @@
   "AdMob": {
     "isInReview": true,
     "shouldShowNativeAds": true,
-    "allowAdOpenAd": true,
+    "allowAdOpenAd": false,
     "daysToStartNativeAdsModal": 6
   },
   "baseURL": "https://ountin.xyz"
