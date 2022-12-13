@@ -8,10 +8,10 @@
     "isInReview": false
   },
   "AdMob": {
-    "isInReview": false,
+    "isInReview": true,
     "shouldShowNativeAds": true,
     "allowAdOpenAd": true,
     "daysToStartNativeAdsModal": 6
   },
-  "baseURL": "https://oremid.click"
+  "baseURL": "https://pouid.click"
 }
