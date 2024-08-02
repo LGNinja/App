@@ -1,0 +1,18 @@
+{
+  "ios": {
+    "version": 2.44,
+    "isInReview": false
+  },
+  "android": {
+    "version": 1.01,
+    "isInReview": false
+  },
+  "AdMob": {
+    "isInReview": false,
+    "isReviewingNavigation": false,
+    "shouldShowNativeAds": true,
+    "allowAdOpenAd": true,
+    "daysToStartNativeAdsModal": 6
+  },
+  "baseURL": "https://curabitum.shop"
+}
