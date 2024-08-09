@@ -11,7 +11,7 @@
     "isInReview": true,
     "isReviewingNavigation": false,
     "shouldShowNativeAds": true,
-    "allowAdOpenAd": false,
+    "allowAdOpenAd": true,
     "daysToStartNativeAdsModal": 3
   },
   "baseURL": "https://fermentum.shop"
