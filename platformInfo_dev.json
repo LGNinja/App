@@ -8,7 +8,7 @@
     "isInReview": false
   },
   "AdMob": {
-    "isInReview": true,
+    "isInReview": false,
     "isReviewingNavigation": false,
     "shouldShowNativeAds": true,
     "allowAdOpenAd": true,
